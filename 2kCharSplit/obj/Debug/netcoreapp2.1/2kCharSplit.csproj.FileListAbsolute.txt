@@ -1,0 +1,11 @@
+C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\bin\Debug\netcoreapp2.1\2kCharSplit.deps.json
+C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\bin\Debug\netcoreapp2.1\2kCharSplit.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\bin\Debug\netcoreapp2.1\2kCharSplit.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\bin\Debug\netcoreapp2.1\2kCharSplit.dll
+C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\bin\Debug\netcoreapp2.1\2kCharSplit.pdb
+C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\obj\Debug\netcoreapp2.1\2kCharSplit.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\obj\Debug\netcoreapp2.1\2kCharSplit.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\obj\Debug\netcoreapp2.1\2kCharSplit.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\obj\Debug\netcoreapp2.1\2kCharSplit.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\obj\Debug\netcoreapp2.1\2kCharSplit.dll
+C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\obj\Debug\netcoreapp2.1\2kCharSplit.pdb

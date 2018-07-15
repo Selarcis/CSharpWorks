@@ -1,0 +1,30 @@
+System.Private.CoreLib
+The process cannot access the file 'C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\test.txt' because it is being used by another process.
+System.Private.CoreLib
+The process cannot access the file 'C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\.txt' because it is being used by another process.
+System.Private.CoreLib
+The process cannot access the file 'C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\test.txt' because it is being used by another process.
+System.Private.CoreLib
+Could not find file 'C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\text.txt'.
+System.Private.CoreLib
+The process cannot access the file 'C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\output.txt' because it is being used by another process.
+System.Private.CoreLib
+The process cannot access the file 'C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\output.txt' because it is being used by another process.
+System.Private.CoreLib
+The process cannot access the file 'C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\output.txt' because it is being used by another process.
+System.Private.CoreLib
+Cannot write to a closed TextWriter.
+System.Private.CoreLib
+The process cannot access the file 'C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\output.txt' because it is being used by another process.
+System.Private.CoreLib
+The process cannot access the file 'C:\Users\Steven\Documents\GitHub\CSharpWorks\2kCharSplit\output.txt' because it is being used by another process.
+System.Private.CoreLib
+Cannot write to a closed TextWriter.
+System.Private.CoreLib
+The stream is currently in use by a previous operation on the stream.
+System.Private.CoreLib
+The path is empty.
+Parameter name: path
+System.Private.CoreLib
+The path is empty.
+Parameter name: path

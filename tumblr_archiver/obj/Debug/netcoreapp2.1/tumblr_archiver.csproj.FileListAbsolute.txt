@@ -1,0 +1,11 @@
+C:\Users\Steven\Documents\GitHub\CSharpWorks\tumblr_archiver\bin\Debug\netcoreapp2.1\tumblr_archiver.deps.json
+C:\Users\Steven\Documents\GitHub\CSharpWorks\tumblr_archiver\bin\Debug\netcoreapp2.1\tumblr_archiver.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\CSharpWorks\tumblr_archiver\bin\Debug\netcoreapp2.1\tumblr_archiver.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\CSharpWorks\tumblr_archiver\bin\Debug\netcoreapp2.1\tumblr_archiver.dll
+C:\Users\Steven\Documents\GitHub\CSharpWorks\tumblr_archiver\bin\Debug\netcoreapp2.1\tumblr_archiver.pdb
+C:\Users\Steven\Documents\GitHub\CSharpWorks\tumblr_archiver\obj\Debug\netcoreapp2.1\tumblr_archiver.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\CSharpWorks\tumblr_archiver\obj\Debug\netcoreapp2.1\tumblr_archiver.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\CSharpWorks\tumblr_archiver\obj\Debug\netcoreapp2.1\tumblr_archiver.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\CSharpWorks\tumblr_archiver\obj\Debug\netcoreapp2.1\tumblr_archiver.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\CSharpWorks\tumblr_archiver\obj\Debug\netcoreapp2.1\tumblr_archiver.dll
+C:\Users\Steven\Documents\GitHub\CSharpWorks\tumblr_archiver\obj\Debug\netcoreapp2.1\tumblr_archiver.pdb
